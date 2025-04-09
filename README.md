@@ -15,6 +15,16 @@ This is a **full-fledged E-commerce backend** built using **Node.js, Express.js,
 ## 🚀 Features
 
 
+✅ **User Authentication (JWT-based login & signup)**  
+✅ **Admin & User Roles**  
+✅ **CRUD Operations for Products & Orders**  
+✅ **Search, Filtering, and Pagination**  
+✅ **File Uploads with Multer**  
+✅ **Security Features (Helmet, CORS, Rate Limiting, Input Validation)**  
+✅ **Logging & Error Handling (Winston & Morgan)**  
+✅ **Optimized MongoDB Queries (Aggregation & Indexing)**  
+
+---
 
 
 ## 🛠️ Tech Stack
