@@ -9,20 +9,6 @@
 ![Winston](https://img.shields.io/badge/Winston-000000?style=for-the-badge)
 ![Morgan](https://img.shields.io/badge/Morgan-FF5733?style=for-the-badge)
 
-## 📌 Overview
-This is a **full-fledged E-commerce backend** built using **Node.js, Express.js, and MongoDB**. It includes authentication, product management, order processing, and security features.
-
-## 🚀 Features
-
-
-✅ **User Authentication (JWT-based login & signup)**  
-✅ **Admin & User Roles**  
-✅ **CRUD Operations for Products & Orders**  
-✅ **Search, Filtering, and Pagination**  
-✅ **File Uploads with Multer**  
-✅ **Security Features (Helmet, CORS, Rate Limiting, Input Validation)**  
-✅ **Logging & Error Handling (Winston & Morgan)**  
-✅ **Optimized MongoDB Queries (Aggregation & Indexing)**  
 
 ---
 
