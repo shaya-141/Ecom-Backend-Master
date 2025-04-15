@@ -9,8 +9,6 @@
 ![Winston](https://img.shields.io/badge/Winston-000000?style=for-the-badge)
 ![Morgan](https://img.shields.io/badge/Morgan-FF5733?style=for-the-badge)
 
-## 📌 Overview
-This is a **full-fledged E-commerce backend** built using **Node.js, Express.js, and MongoDB**. It includes authentication, product management, order processing, and security features.
 
 ## 🚀 Features
 
