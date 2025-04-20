@@ -1,6 +1,27 @@
 
 [
-   
+    {
+      "name": "Nike Air Zoom Pegasus",
+      "description": "Nike Air Zoom Pegasus lightweight running shoes are designed for both professional athletes and casual runners. They feature responsive cushioning technology that provides excellent energy return and shock absorption, reducing strain on your feet during long runs. The breathable mesh upper ensures ventilation, keeping your feet cool and comfortable, while the flexible rubber outsole provides superior grip on various surfaces. Perfect for daily workouts or casual wear, these shoes combine style, durability, and high-performance technology.",
+      "price": 8500,
+      "discountPrice": 7999,
+      "stock": 25,
+      "brand": "Nike",
+      "gender": "Men",
+      "category": "Footwear",
+      "subCategory": "Running Shoes",
+      "variations": [
+        { "color": "Grey", "size": "10" },
+        { "color": "Black", "size": "9" }
+      ],
+      "thumbnail": "https://res.cloudinary.com/dfxido6sm/image/upload/v1740597029/ecommerce/air-zoom.avif",
+      "images": [
+        "https://res.cloudinary.com/dfxido6sm/image/upload/v1740597029/ecommerce/air-zoom-side.avif",
+        "https://res.cloudinary.com/dfxido6sm/image/upload/v1740597029/ecommerce/air-zoom-top.avif"
+      ],
+      "ratings": 0,
+      "reviews": []
+    },
     {
       "name": "Zara Cotton Hoodie",
       "description": "This Zara cotton hoodie is designed for ultimate comfort and style, making it an essential wardrobe piece for all seasons. Crafted from high-quality organic cotton, it offers a soft and breathable feel, ensuring warmth during chilly days without feeling too heavy. The relaxed fit allows for easy layering, while the adjustable drawstring hood and ribbed cuffs provide a secure and stylish look. Whether you're heading out for a casual day or lounging at home, this hoodie is your go-to choice for effortless fashion.",
