@@ -14,6 +14,7 @@ This is a **full-fledged E-commerce backend** built using **Node.js, Express.js,
 
 ## 🚀 Features
 
+
 ✅ **User Authentication (JWT-based login & signup)**  
 ✅ **Admin & User Roles**  
 ✅ **CRUD Operations for Products & Orders**  
